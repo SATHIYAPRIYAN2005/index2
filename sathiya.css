@@ -1,0 +1,26 @@
+.image{
+    background-image: url(https://th.bing.com/th/id/OIP.kxGFNvGgubyMlfT0pZnGzAHaEK?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    height: 100vh;
+
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.content{
+    color: white;
+}
+.button{
+    background-color: orange;
+    height: 36px;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+.line{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+   
